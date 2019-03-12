@@ -1,0 +1,8 @@
+:local(.paginationContainer){
+    width: 100%;
+    text-align: center;
+    min-height: 60px;
+}
+:local(.paginationContainer ul){
+    margin: 10px;
+}
